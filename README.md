@@ -66,3 +66,4 @@ These improvements could make StudyNexus more intelligent, accurate, collaborati
 
 ## Project Demo
 
+https://github.com/user-attachments/assets/b4bc2f67-da56-4127-8091-97a331f9e403
